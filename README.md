@@ -1,2 +1,2 @@
-# python-playwright-githubActions
-Simple example of using Python, Playwright, and GitHub Actions
+# python-pytest-playwright-githubActions
+Simple example of using Python, Pytest, Playwright, and GitHub Actions
